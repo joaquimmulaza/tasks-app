@@ -2,7 +2,7 @@
 
 Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind CSS, TypeScript, Redux Toolkit e mais.
 
-![página inicial](https://github.com/joaquimmulaza/tasks-app/blob/main/public/To-Do%20List%20_%20All%20tasks.png)
+![página inicial](https://github.com/joaquimmulaza/tasks-app/blob/main/public/To-Do%20List%20_%20All%20task.png)
 
 ## Descrição
 
